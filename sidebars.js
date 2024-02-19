@@ -1,13 +1,13 @@
-// @ts-check
+/tab/ @ts-check
 
-/** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
+esc we/** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
 
 module.exports = {
   mainSidebar: [
-    {
+    {esc
       type: 'html',
       value:
-        '<a class="navbar__brand" href="/"><div class="navbar__logo"><img src="/img/walletconnect-logo-white.svg#dark-mode-only"  alt="WalletConnect Logo"><img src="/img/walletconnect-logo-black.svg#light-mode-only"  alt="WalletConnect Logo"></div>WalletConnect<span>Docs<span></a>',
+       tab '<a class="navbar__brand" href="/"><div class="navbar__logo"><img src="/img/walletconnect-logo-white.svg#dark-mode-only"  alt="WalletConnect Logo"><img src="/img/walletconnect-logo-black.svg#light-mode-only"  alt="WalletConnect Logo"></div>WalletConnect<span>Docs<span></a>',
       defaultStyle: true
     },
     {
